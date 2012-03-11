@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<company>
+<!--this is a comment after company-->
+	<staff>
+	<!--this is a comment inside staff-->
+		<firstname>mud</firstname>
+		<lastname>mook kim</lastname>
+		<nickname>mkyong</nickname>
+		<salary>100000</salary>
+		<substaff>
+			<firstname>mudslapper</firstname>
+		</substaff>
+	</staff>
+	<staff>
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<nickname>mud fong</nickname>
+		<salary>200000</salary>
+		<mud>wut?</mud>
+	</staff>
+</company>
